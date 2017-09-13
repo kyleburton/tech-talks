@@ -1,0 +1,18 @@
+TODO: example make: demonstrate non-printing character challenges
+TODO: example make: demonstrate shell escaping challenges
+TODO: example make: can't see what you can do
+TODO: example rake: awesome dsl
+TODO: example rake: dependencies suxor
+TODO: example rake: look at all libraries! oh er, this now takes longer and longer to 'load'
+TODO: example rake: have to have ruby everywhere :(
+TODO: example gake: neat, I can dynamically generate go
+TODO: example gake: boo: errors are confusing
+TODO: example gake: boo: runtime has to be everywhere
+
+TODO: example bake: simple introduction
+TODO: example bake: how tasks can be organized
+TODO: example bake: "fake it till ya make it" aka cheater's namespaces dot or colons
+TODO: example bake: zomg we can do completion!
+TODO: example bake: external / foreign requires: file system or git (<-- facilitates re-use and automation)
+TODO: example bake: how we use bake on the teams I work with
+TODO: example bake: look ma, it's in homebrew
